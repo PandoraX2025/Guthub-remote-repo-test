@@ -1,3 +1,5 @@
 fit init // for initializing for repository
 git add <file>
 git commit -m "your commit mesage"
+
+hart
